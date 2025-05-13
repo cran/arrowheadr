@@ -1,7 +1,7 @@
 Type: Package
 Package: arrowheadr
 Title: Make Custom Arrowheads
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     person("W. Joel", "Schneider", , "w.joel.schneider@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-8393-5316"))
@@ -20,10 +20,11 @@ Imports: bezier, graphics, grDevices, purrr, stats
 Suggests: ggarrow, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-06-07 14:49:54 UTC; renee
-Author: W. Joel Schneider [aut, cre] (<https://orcid.org/0000-0002-8393-5316>)
+Packaged: 2025-05-13 01:05:29 UTC; renee
+Author: W. Joel Schneider [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-8393-5316>)
 Maintainer: W. Joel Schneider <w.joel.schneider@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-06-10 17:00:05 UTC
+Date/Publication: 2025-05-13 04:10:02 UTC

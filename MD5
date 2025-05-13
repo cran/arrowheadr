@@ -1,9 +1,9 @@
-0ffe7645fdfd457184e09842da43b9ca *DESCRIPTION
+3071355bbc810c23d600b5a2ed23fe7a *DESCRIPTION
 b7caa60640193a49b137a68a4686f425 *NAMESPACE
-550566d877bef04bcc442493496e35ad *NEWS.md
-d3db258c6305e6cf3b397d91349db731 *R/main.R
+b8cd5e1112c542d6fc0b18d128f0b0a3 *NEWS.md
+6126257a10066038aeef723549c425e9 *R/main.R
 26a291b85a4956ad14895450cf92ce16 *R/sysdata.rda
-5f0eaf60987a121f94bd02957e6b7b82 *README.md
+38cae039e27ff7387e26b0efcd99f520 *README.md
 72ff3632bc5e9a506db1373e1e501437 *inst/CITATION
 b10427d0284c500b3e31185e36b72991 *inst/Red_Fender_Stratocaster.svg
 725de9093f7446c7442bbcc4901485ad *inst/WORDLIST
@@ -80,7 +80,7 @@ eaa7d87dd7dd7544bc944d3813670d63 *man/figures/logo.png
 25f5e51da0399db6ff37a6ceadfe5630 *man/rescaler.Rd
 8a6aff44723875a57e2b6e906c2e59c6 *man/rev_matrix_rows.Rd
 154e4dfc2f1a76217095aa1056411593 *man/rotater.Rd
-5d5945388e4c5f247d8fc009c5a368a5 *man/transformer.Rd
+c0dab12890dab27e492cf32831d7afa9 *man/transformer.Rd
 1cab045258eee3696eca529b76c353d1 *man/unitizer.Rd
 6c7efb3d9bd4e9aa48d1cf465b05500c *man/v2matrix.Rd
 39e45ad3d39ed0b7e74664ceda785cc0 *tests/testthat.R

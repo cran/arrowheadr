@@ -20,13 +20,17 @@ package.
 
 ## Installation
 
+The arrowheadr package can be installed via CRAN:
+
+``` r
+install.packages("arrowheadr")
+```
+
 The development version of arrowheadr can be installed by running this
 code:
 
 ``` r
-# If needed, install the remotes package first.
-# install.package("remotes")
-remotes::install_github("wjschne/arrowheadr")
+install.packages("arrowheadr", repos = c('https://wjschne.r-universe.dev'))
 ```
 
 # The ggarrow package is fantastic!
